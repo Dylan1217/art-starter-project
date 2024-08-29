@@ -7,6 +7,14 @@
     position sticky;
     top: 0;
     width: 100%;
-    z-index: : 1000;
-
+    z-index: 1000;
 }
+
+/*    How to add a background image to webpage 
+body {
+    background-image: url{../}
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+*/
