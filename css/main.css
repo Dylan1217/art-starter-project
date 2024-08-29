@@ -1,1 +1,26 @@
 /* Place CSS styles here */
+.banner {
+    background-color:aqua;
+    color: white;
+    text-align: center;
+    font-size: 24px
+    position sticky;
+
+}
+
+
+
+
+/*
+.banner {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 24px;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+  }
+  */
